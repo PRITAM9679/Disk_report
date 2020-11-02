@@ -7,3 +7,6 @@ I have written a code to find out disk_usage_report and it's very useful for fin
 <li>os</li>
 <li>pandas</li>
 </ul>
+<br>
+If you don't have pandas library, you can install it by <br>
+&nbsp&nbsp pip install pandas 
