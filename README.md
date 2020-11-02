@@ -17,6 +17,6 @@ If you don't have pandas library, you can install it by <br>
 &nbsp
 &nbsp
 &nbsp
-&nbsp curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 <br>
 &nbsp &nbsp&nbsp&nbsp&nbsp python get-pip.py
